@@ -6,7 +6,7 @@ const p2s = document.querySelector("#p2");
 const winS = document.querySelector("#ws");
 let p1Score = 0,
   p2Score = 0,
-  winningScore = 2;
+  winningScore = 5;
 let isGameOver = false;
 
 const resetFunc = () => {
